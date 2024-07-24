@@ -1,6 +1,8 @@
 # twitchbot_cli
 A CLI package for interacting with my twitch bot
 
+Might wrap this into it at some point but who knows
+
 ## Supported Commands
 
 none, this is an init commit
